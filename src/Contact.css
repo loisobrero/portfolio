@@ -1,0 +1,47 @@
+/* Contact.css */
+
+#contact {
+    /* background-color: #4e92b7; Choose your desired background color */
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace, sans-serif; /* Choose your desired font family */
+  }
+  
+  #contact h2 {
+    color: rgb(7, 7, 7);
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  #contact p {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .contact-info p {
+    color: white;
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .contact-info a {
+    color: #ffffff; /* Link color */
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  

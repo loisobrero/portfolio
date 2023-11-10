@@ -1,0 +1,36 @@
+#about {
+    /* background-color: #ffe9dc; Choose your desired background color */
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace, sans-serif; /* Choose your desired font family */
+  }
+  
+  .image-style {
+    transition: transform 0.3s ease-in-out;
+    border: 2px solid #333; /* Add a border to the image if desired */
+    border-radius: 50%; /* Make the image circular */
+  }
+  
+  h3 {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    margin-top: 20px; /* Increase the top margin for H3 */
+  }
+  
+  .intro {
+    color: white;
+    font-size: 20px;
+    border: 2px solid rgba(45, 45, 45, 0.6); /* Add a border to the intro */
+    padding: 10px; /* Add some padding to the intro */
+  }
+  
+  #about p {
+    background-color: rgba(45, 45, 45, 0.6);
+    color: white;
+    font-size: 16px;
+    margin: 10px 0;
+    border: 2px solid rgba(45, 45, 45, 0.6); /* Add a border to the paragraphs */
+    padding: 10px; /* Add some padding to the paragraphs */
+  }
+  

@@ -1,0 +1,46 @@
+/* Projects.css */
+
+/* Style for the entire Projects section */
+#projects {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    /* background-color: #f5f5f5; Background color for the Projects section */
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Style for the project list */
+  #projects ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Style for each project item */
+  #projects li {
+    background-color: rgba(3, 3, 3, 0.6);
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 50px;
+    border-radius: 5px;
+  }
+  
+  /* Style for project titles */
+  #projects li strong {
+    color: white;
+    font-size: 20px;
+  }
+  
+  /* Style for project descriptions */
+  #projects li p {
+    color: #ffffff;
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  /* Style for links within projects */
+  #projects li a {
+    text-decoration: none;
+    color: #f6924b; /* Link color */
+    margin-right: 10px;
+  }
+  
